@@ -49,9 +49,9 @@ ul {
 	padding: 0;
 }
 
-.load {
+.text {
 	color: yellow;
-	font-size: large;
-	font-family: monospace;
+	font: larger;
+	font-family: Georgia, "Times New Roman", Times, serif;
 	font-weight: bolder;
 }
