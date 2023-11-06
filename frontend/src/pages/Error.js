@@ -18,8 +18,8 @@ function ErrorPage() {
 
 	return (
 		<>
-			<PageContent title="AN ERROR HAS OCCURRED">
-				<p className="text">SOMETHING WENT WRONG!!!!</p>
+			<PageContent title={title}>
+				<p className="text">{message}</p>
 			</PageContent>
 		</>
 	);
